@@ -1,0 +1,10 @@
+* cl-excel
+
+A Common Lisp library for reading and writing Excel (.xlsx) and
+LibreOffice (.ods) spreadsheets.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/gwangjinkim/cl-excel.git   |
+| commit  | 0000000                                           |
+| systems | cl-excel                                          |
+|---------+---------------------------------------------------|
